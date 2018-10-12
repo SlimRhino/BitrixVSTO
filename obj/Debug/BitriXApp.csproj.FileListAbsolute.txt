@@ -1,0 +1,10 @@
+C:\Users\orehov\source\repos\BitriXApp\BitriXApp\bin\Debug\BitriXApp.exe.config
+C:\Users\orehov\source\repos\BitriXApp\BitriXApp\bin\Debug\BitriXApp.exe
+C:\Users\orehov\source\repos\BitriXApp\BitriXApp\bin\Debug\BitriXApp.pdb
+C:\Users\orehov\source\repos\BitriXApp\BitriXApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\orehov\source\repos\BitriXApp\BitriXApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\orehov\source\repos\BitriXApp\BitriXApp\obj\Debug\BitriXApp.csprojResolveAssemblyReference.cache
+C:\Users\orehov\source\repos\BitriXApp\BitriXApp\obj\Debug\BitriXApp.csproj.CoreCompileInputs.cache
+C:\Users\orehov\source\repos\BitriXApp\BitriXApp\obj\Debug\BitriXApp.csproj.CopyComplete
+C:\Users\orehov\source\repos\BitriXApp\BitriXApp\obj\Debug\BitriXApp.exe
+C:\Users\orehov\source\repos\BitriXApp\BitriXApp\obj\Debug\BitriXApp.pdb
